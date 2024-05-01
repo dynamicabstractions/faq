@@ -38,7 +38,7 @@
             readingsData[faq_container_id].forEach(function(event) {
               const eventHtml = `
                   <li>
-                    <span class="title">${event.Question}</span> 
+                    <span class="question">${event.Question}</span> 
                     <span class="authors">${event.Answer}</span>
                   </li>
               `;
@@ -66,9 +66,9 @@
         <nav class="navbar">
           <ul class="nav-links">
             <li><a tabindex="1" href="../">Home</a></li>
-            <!-- <li><a tabindex="2" href="./"><strong>About</strong></a></li> -->
-            <li><a tabindex="2" href="../research">Resource</a></li>
-            <li><a tabindex="3" href="./"><strong>FAQ</strong></a></li>
+            <li><a tabindex="2" href="../research">Research</a></li>
+            <li><a tabindex="3" href="./faq"><strong>FAQ</strong></a></li>
+            <!-- <li><a tabindex="4" href="#contact">Contact</a></li> -->
           </ul>
         </nav>
         <section id="readings" class="section">

@@ -35,5 +35,5 @@ section li {
 }
 
 span.title {
-    display: inline-block;
+    display: block;
 }
