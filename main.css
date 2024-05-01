@@ -211,12 +211,7 @@ nav, ul {
     width: 60%;
 }
 
-#research_items > li{
-    font-family: "Nunito", sans-serif;
-    margin: 12px 0px;
-}
-
-#other_readings > li{
+#faqs > li{
     font-family: "Nunito", sans-serif;
     margin: 12px 0px;
 }

@@ -18,11 +18,11 @@
     opacity: 100%;
 }
 
-.title {
+.question {
     font-weight: 700;
 }
 
-.authors {
+.question {
     font-style: oblique;
 }
 
@@ -34,6 +34,14 @@ section li {
     list-style: none;
 }
 
-span.title {
+span.question {
     display: block;
+}
+
+#faqs {
+    font-size: 1.1 rem;
+}
+
+#faq li {
+    margin-bottom: 20px;
 }
