@@ -211,11 +211,6 @@ nav, ul {
     width: 60%;
 }
 
-#faqs > li{
-    font-family: "Nunito", sans-serif;
-    margin: 12px 0px;
-}
-
 .right-column {
     display: grid;
     grid-column: 3 / 3;
