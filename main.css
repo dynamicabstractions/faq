@@ -93,6 +93,7 @@ nav, ul {
     grid-template-areas: "content figure";
     width: 100%;
     margin: auto;
+    height: 100vh;
 }
 
 .content {
