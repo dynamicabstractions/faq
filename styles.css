@@ -7,14 +7,15 @@
 }
 
 .nav-links li:nth-child(2) {
+    opacity: 40%;    
+}
+
+.nav-links li:nth-child(2):hover {
     opacity: 100%;
 }
 
-.nav-links li:nth-child(3) {
-    opacity: 40%;
-}
 
-.nav-links li:nth-child(3):hover {
+.nav-links li:nth-child(3) {
     opacity: 100%;
 }
 
