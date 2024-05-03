@@ -21,6 +21,7 @@
 
 .question {
     font-weight: 700;
+    font-size: 1.3rem;
 }
 
 .link {
@@ -40,6 +41,6 @@ span.question {
 }
 
 #faq li {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     font-family: "Nunito", sans-serif;
 }
